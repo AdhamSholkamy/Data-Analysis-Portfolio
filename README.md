@@ -18,4 +18,4 @@ I'm a self-taught Data Analyst who loves working with data to find insights and 
 
 
 
-⭐ *Thanks for visiting my portfolio! Feel free to check out my projects and share your feedback.
+## ⭐ *Thanks for visiting my portfolio! Feel free to check out my projects and share your feedback.
