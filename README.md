@@ -17,4 +17,5 @@ I'm a self-taught Data Analyst who loves working with data to find insights and 
 - Improving storytelling with data visualization
 
 
+
 ⭐ *Thanks for visiting my portfolio! Feel free to check out my projects and share your feedback.
